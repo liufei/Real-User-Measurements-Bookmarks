@@ -78,6 +78,222 @@ Experience and Insights on Real User Measurements.
 
 - [Inlining critical CSS for better web performance](https://gomakethings.com/inlining-critical-css-for-better-web-performance/)
 
+- [Node.js: How to attach to a running process and to debug the server with a console?](https://stackoverflow.com/questions/13052548/node-js-how-to-attach-to-a-running-process-and-to-debug-the-server-with-a-conso)
+
+- [Node.js: Debugger](https://nodejs.org/docs/latest-v14.x/api/debugger.html)
+
+- [Detect iOS version less than 5 with JavaScript](https://stackoverflow.com/questions/8348139/detect-ios-version-less-than-5-with-javascript)
+
+- [Get chrome version from commandline in Mac](https://superuser.com/questions/1144651/get-chrome-version-from-commandline-in-mac)
+
+- [Clickhouse as an alternative to ElasticSearch and MySQL, for log storage and analysis, in 2021](https://pixeljets.com/blog/clickhouse-vs-elasticsearch/)
+
+- [Rethinking Server-Timing As A Critical Monitoring Tool](https://www.smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/)
+
+- [elasticsearch-js: Basic configuration](https://github.com/elastic/elasticsearch-js/blob/7.13/docs/basic-config.asciidoc)
+
+- [lru-cache](https://www.npmjs.com/package/lru-cache)
+
+- [How do I determine the correct "max-old-space-size" for Node.js?](https://stackoverflow.com/questions/48387040/how-do-i-determine-the-correct-max-old-space-size-for-node-js)
+
+- [How many bytes in a JavaScript string?](https://stackoverflow.com/questions/2219526/how-many-bytes-in-a-javascript-string)
+
+- [How to Deploy, Manage and Scale Node.js Apps with PM2](https://betterstack.com/community/guides/scaling-nodejs/pm2-guide/)
+
+- [What is the difference between concurrency, parallelism and asynchronous methods?](https://stackoverflow.com/questions/4844637/what-is-the-difference-between-concurrency-parallelism-and-asynchronous-methods)
+
+- [Node.js multithreading: Worker threads and why they matter](https://blog.logrocket.com/node-js-multithreading-worker-threads-why-they-matter/)
+
+- [How to Remove Files Older than N days using tmpreaper in Linux](https://www.thegeekstuff.com/2013/10/tmpreaper-examples/)
+
+- [https://www.thegeekstuff.com/2013/10/tmpreaper-examples/](https://www.honeybadger.io/blog/nodejs-caching/)
+
+- [Understanding the NodeJS cluster module](https://leanpub.com/thenodejsclustermodule/read)
+
+- [vercel/micro: How to use](https://github.com/vercel/micro/issues/394)
+
+- [pino: About transports](https://github.com/pinojs/pino/issues/801)
+
+- [Express.js - app.listen vs server.listen](https://stackoverflow.com/questions/17696801/express-js-app-listen-vs-server-listen)
+
+- [Tao of Node - Design, Architecture & Best Practices](https://alexkondov.com/tao-of-node/)
+
+- [detect browser close](https://github.com/akamai/boomerang/issues/113)
+
+- [Tracking "blocking time"](https://github.com/akamai/boomerang/issues/121)
+
+- [Limit variable lifetime by current beacon only](https://github.com/akamai/boomerang/issues/123)
+
+- [Adding global data](https://github.com/akamai/boomerang/issues/130)
+
+- [How to get the corresponding url in Boomcatch](https://github.com/akamai/boomerang/issues/136)
+
+- [Merge boomerange and custom object and then fire beacon](https://github.com/akamai/boomerang/issues/265)
+
+- [Installation Confusion...](https://github.com/akamai/boomerang/issues/294)
+
+- [Handling Errors in Vue.js](https://www.raymondcamden.com/2019/05/01/handling-errors-in-vuejs)
+
+- [Iterating over all data](https://discuss.elastic.co/t/iterating-over-all-data/13610)
+
+- [Get all documents from an index - elasticsearch](https://stackoverflow.com/questions/44625303/get-all-documents-from-an-index-elasticsearch)
+
+- [Looping over all documents in an elasticsearch index](https://stackoverflow.com/questions/23845530/looping-over-all-documents-in-an-elasticsearch-index)
+
+- [appsignal: plugin-window-events](https://github.com/appsignal/appsignal-javascript/tree/develop/packages/plugin-window-events)
+
+- [How can we listen for errors that do not trigger window.onerror?](https://stackoverflow.com/questions/19141195/how-can-we-listen-for-errors-that-do-not-trigger-window-onerror)
+
+- [Why does an error result in a blank screen instead of a message?](https://stackoverflow.com/questions/49925345/why-does-an-error-result-in-a-blank-screen-instead-of-a-message/49925591)
+
+- [Capistrano like deployments](https://pm2.keymetrics.io/docs/tutorials/capistrano-like-deployments)
+
+- [sendBeacon API not working temporarily due to security issue, any workaround?](https://stackoverflow.com/questions/45274021/sendbeacon-api-not-working-temporarily-due-to-security-issue-any-workaround)
+
+- [The New Generation of Performance Metrics for Better User Experience](https://calibreapp.com/blog/new-generation-of-performance-metrics)
+
+- [Show all Elasticsearch aggregation results/buckets and not just 10](https://stackoverflow.com/questions/22927098/show-all-elasticsearch-aggregation-results-buckets-and-not-just-10)
+
+- [Zero downtime deployments with PM2](https://medium.com/learnwithrahul/zero-downtime-deployments-with-pm2-93013713df15)
+
+- [TCP/IP Ports and Sockets Explained](http://www.steves-internet-guide.com/tcpip-ports-sockets/)
+
+- [Elasticsearch: Difference between "Term", "Match Phrase", and "Query String"](https://stackoverflow.com/questions/26001002/elasticsearch-difference-between-term-match-phrase-and-query-string)
+
+- [Find strings within strings faster with the new wildcard field](https://www.elastic.co/blog/find-strings-within-strings-faster-with-the-new-elasticsearch-wildcard-field)
+
+- [Running the Elastic Stack on Docker](https://www.elastic.co/guide/en/elastic-stack-get-started/7.9/get-started-docker.html)
+
+- [XHR time](https://github.com/akamai/boomerang/issues/118)
+
+- [Limit variable lifetime by current beacon only](https://usefulangle.com/post/334/javascript-implement-analytics-sessions)
+
+- [Increasing Node’s Memory](https://medium.com/tomincode/increasing-nodes-memory-337dfb1a60dd)
+
+- [Configuring HTTPS for Express and Nginx](https://stackoverflow.com/questions/42761992/configuring-https-for-express-and-nginx)
+
+- [Running PM2 & Node.js in Production Environments](https://hackernoon.com/running-pm2-node-js-in-production-environments-13e703fc108a)
+
+- [Use the New Profiler in React Developer Tools to Generate Flame Charts and Interactions](https://elijahmanor.com/blog/react-devtools-profiler)
+
+- [Node.js Guide for Frontend Developers](https://blog.bloomca.me/2018/06/21/nodejs-guide-for-frontend-developers.html)
+
+- [Node.js Child Processes: Everything you need to know](https://www.freecodecamp.org/news/node-js-child-processes-everything-you-need-to-know-e69498fe970a/)
+
+- [Terms query](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-terms-query.html)
+
+- [A Basic Guide To Elasticsearch Aggregations](https://logz.io/blog/elasticsearch-aggregations/)
+
+- [Pipeline Aggregations](https://www.elastic.co/guide/en/elasticsearch/reference/6.6/search-aggregations-pipeline.html)
+
+- [Get mapping API](https://www.elastic.co/guide/en/elasticsearch/reference/current/indices-get-mapping.html)
+
+- [How to perform exact string match query in ES](https://discuss.elastic.co/t/how-to-perform-exact-string-match-query-in-es/166727)
+
+- [Match phrase query](https://www.elastic.co/guide/en/elasticsearch/reference/current//query-dsl-match-query-phrase.html)
+
+- [Comprehensive Guide to Bucket Aggregations in Elasticsearch: Part I](https://qbox.io/blog/comprehensive-guide-to-buckets-aggregations-in-elasticsearch)
+
+- [Comprehensive Guide to Elasticsearch Pipeline Aggregations: Part II](https://qbox.io/blog/introduction-to-elasticsearch-pipeline-aggregations-part-ii)
+
+- [Searching Parent-Child Relationships in Elasticsearch](https://qbox.io/blog/searching-parent-child-relationships-in-elasticsearch)
+
+- [Join field type](https://www.elastic.co/guide/en/elasticsearch/reference/master/parent-join.html)
+
+- [Histogram Aggregation](https://www.elastic.co/guide/en/elasticsearch/reference/6.6/search-aggregations-bucket-histogram-aggregation.html)
+
+- [In chrome dev tools, what is the speed of each preset option for network throttling?](https://stackoverflow.com/questions/48367042/in-chrome-dev-tools-what-is-the-speed-of-each-preset-option-for-network-throttl)
+
+- [WPO Stats](https://wpostats.com/)
+
+- [SpeedCurve: Monitor front-end performance](https://www.speedcurve.com/)
+
+- [Front-End Performance Checklist 2021 (PDF, Apple Pages, MS Word)](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
+
+- [Tracking Image Error Events Using Event Delegation In JavaScript](https://www.bennadel.com/blog/3429-tracking-image-error-events-using-event-delegation-in-javascript.htm)
+
+- [Bounce Rate vs. Exit Rate: What’s the Difference?](https://cxl.com/guides/bounce-rate/bounce-rate-vs-exit-rate/)
+
+- [Find out how you stack up to new industry benchmarks for mobile page speed](https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/mobile-page-speed-new-industry-benchmarks/)
+
+- [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+
+- [Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://vuejsdevelopers.com/2017/07/24/critical-css-webpack/)
+
+- [Critical-path (Above-the-fold) CSS Tools](https://github.com/addyosmani/critical-path-css-tools)
+
+- [Practical Performance (Polymer Summit 2016)](https://www.youtube.com/watch?v=6m_E-mC0y3Y)
+
+- [webpack bits: Getting the most out of the CommonsChunkPlugin()](https://medium.com/webpack/webpack-bits-getting-the-most-out-of-the-commonschunkplugin-ab389e5f318)
+
+- [Lazy Loading in Vue using Webpack's Code Splitting](https://alexjover.com/blog/lazy-load-in-vue-using-webpack-s-code-splitting/)
+
+- [Node.js for Beginners](https://youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg)
+
+- [An Introduction To Running Lighthouse Programmatically](https://www.smashingmagazine.com/2020/09/introduction-running-lighthouse-programmatically/)
+
+- [JavaScript: Conditional JavaScript, only download when it is appropriate to do so](https://umaar.com/dev-tips/242-considerate-javascript/)
+
+- [Publish, ship, and install modern JavaScript for faster applications](https://web.dev/publish-modern-javascript/)
+
+- [How mPulse works](https://techdocs.akamai.com/mpulse/docs/how-mpulse-works)
+
+- [Bounce Rate Query Elasticsearch](https://stackoverflow.com/questions/24955214/bounce-rate-query-elasticsearch)
+
+- [Navigation Timing API. What's going on between domContentLoadedEventStart and domContentLoadedEventEnd?](https://stackoverflow.com/questions/21790023/navigation-timing-api-whats-going-on-between-domcontentloadedeventstart-and-do)
+
+- [How to improve TTFB?](https://github.com/GoogleChrome/lighthouse/issues/8959)
+
+- [Resilience in small clusters](https://www.elastic.co/guide/en/elasticsearch/reference/current/high-availability-cluster-small-clusters.html)
+
+- [Data node](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-node.html#data-node)
+
+- [Load Balancing Across Multiple Elasticsearch Nodes](https://www.elastic.co/guide/en/kibana/7.6/production.html#load-balancing-es)
+
+- [Installing the ELK Stack on Docker](https://logz.io/blog/elk-stack-on-docker/)
+
+- [Elasticsearch Queries: A Guide to Query DSL](https://logz.io/blog/elasticsearch-queries/)
+
+- [Creating an Elasticsearch Cluster: Getting Started](https://logz.io/blog/elasticsearch-cluster-tutorial/)
+
+- [Elasticsearch API 101](https://logz.io/blog/elasticsearch-api/)
+
+- [A Useful Elasticsearch Cheat Sheet in Times of Trouble](https://logz.io/blog/elasticsearch-cheat-sheet/)
+
+- [Elasticsearch Queries: A Guide to Query DSL](https://logz.io/blog/elasticsearch-queries/)
+
+- [Snippet to track load abandonments (bounces)](https://github.com/chrisblakley/Nebula/issues/1355)
+
+- [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)
+
+- [Accelerate your website with Nginx as a reverse proxy cache](https://dev.to/shameemreza/accelerate-your-website-with-nginx-as-a-reverse-proxy-cache-a9o)
+
+- [Against metrics: how measuring performance by numbers backfires](https://aeon.co/ideas/against-metrics-how-measuring-performance-by-numbers-backfires)
+
+- [7 Types of Native Errors in JavaScript You Should Know](https://blog.bitsrc.io/types-of-native-errors-in-javascript-you-must-know-b8238d40e492)
+
+- [Fixing memory leaks in web applications](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
+
+- [Generating UUIDs at scale on the Web](https://medium.com/teads-engineering/generating-uuids-at-scale-on-the-web-2877f529d2a2)
+
+- [Code Splitting in Create React App](https://sst.dev/chapters/code-splitting-in-create-react-app.html)
+
+- [Rendering Performance](https://web.dev/rendering-performance/)
+
+- [Round-trip delay](https://en.wikipedia.org/wiki/Round-trip_delay)
+
+- [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+
+- [Slow Code HATES him! Optimising a web app from 1 to 60fps](https://blog.scottlogic.com/2020/02/17/minesweeper-optimisation.html)
+
+- [5 Recommended Tools for Optimizing Performance in ReactJS](https://blog.bitsrc.io/5-recommended-tools-for-optimizing-performance-in-reactjs-29eb2a3ec46d)
+
+- [React Production Performance Monitoring](https://kentcdodds.com/blog/react-production-performance-monitoring)
+
+- [Effective Code Splitting in React: A Practical Guide](https://hackernoon.com/effective-code-splitting-in-react-a-practical-guide-2195359d5d49)
+
+- [nginx as cache proxy not caching anything](https://stackoverflow.com/questions/9230812/nginx-as-cache-proxy-not-caching-anything/9232739#9232739)
+
 - [**zh-Hans**] [7 Days to Build a Front-end Performance Monitoring System](http://fex.baidu.com/blog/2014/05/build-performance-monitor-in-7-days/)
 
 - [**zh-Hans**] [Alibaba Cloud ARMS launches heavy-duty monitoring for mini-programs, helping to ensure stable operation](https://zhuanlan.zhihu.com/p/57148166)
@@ -89,6 +305,7 @@ Experience and Insights on Real User Measurements.
 - [**zh-Hans**] [Best Practices for CDN Service Quality Monitoring](https://mp.weixin.qq.com/s/PGoQgiP24phLtMDsjNG_Zw)
 
 - [**zh-Hans**] [Best Practices for Front-end Monitoring in the GMTC Era of Front-end Development](https://zhuanlan.zhihu.com/p/38637451) 
+
 
 - [**zh-Hans**] [Build a front-end security production system, locate faults in as fast as 5 minutes](https://www.infoq.cn/article/wxqyablxxwllaku3ttlz)
 
@@ -171,6 +388,30 @@ Experience and Insights on Real User Measurements.
 - [**zh-Hans**] [Understand Front-end Page Performance Monitoring Completely in 10 Minutes](https://zhuanlan.zhihu.com/p/82981365)
 
 - [**zh-Hans**] [Volcano Engine launches a web-based performance monitoring solution based on a new perspective](https://mp.weixin.qq.com/s/bTlfSNLtXpSIGQLwUAP9Hw)
+
+- [**zh-Hans**] [Usability Assurance Practices for Meituan-Dianping's Cashier Front-end](https://www.infoq.cn/article/the-availability-of-meituan-cash-front-desk-practice/)
+
+- [**zh-Hans**] [Two or three things about burying points at the airline ticket counter](https://zhuanlan.zhihu.com/p/25004834)
+
+- [**zh-Hans**] [6 Buried Point Strategies That Product Managers Must Know](https://zhuanlan.zhihu.com/p/63272045)
+
+- [**zh-Hans**] [What is the purpose of the spm parameter in the URL of Alibaba Cloud's official website?](https://www.zhihu.com/question/62813754)
+
+- [**zh-Hans**] [Alibaba's Log Collection Sharing (Part 1)](https://blog.naaln.com/2017/08/alibaba-data-track-1/)
+
+- [**zh-Hans**] [What is a transaction?](https://www.iteye.com/blog/zht1933-479808)
+
+- [**zh-Hans**] [Opbeat is dead, please use Elastic APM](https://segmentfault.com/a/1190000014864630)
+
+- [**zh-Hans**] [Front-end black technology: Meituan's first frame optimization practice for web pages](https://zhuanlan.zhihu.com/p/50099963)
+
+- [**zh-Hans**] [The magic of code splitting in Webpack](https://zhuanlan.zhihu.com/p/26710831)
+
+- [**zh-Hans**] [Design and Implementation of Full-Chain Tracking System](https://www.infoq.cn/video/hJSrzRoqgwwugy1xZiGd)
+
+- [**zh-Hans**] [Exploration of Ultimate Front-end Performance Optimization](https://www.infoq.cn/video/4V1yFZHAG6gURQc67gBl)
+
+- [**zh-Hans**] [Cloud + End Integration: Front-end Engineering Exploration of Meituan Financial Services](https://www.infoq.cn/video/aLQ483Es3HDGoPNSSRXg)
 
 ## Tools
 
