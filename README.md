@@ -88,8 +88,6 @@ Experience and Insights on Real User Measurements.
 
 - [**zh-Hans**] [Research on Front-end Exception Monitoring Solutions](https://cdc.tencent.com/2018/09/13/frontend-exception-monitor-research/)
 
-- [**zh-Hans**] [Research on Front-end Exception Monitoring Solutions](Research on Front-end Exception Monitoring Solutions)
-
 - [**zh-Hans**] [Statistical Indicator Description](https://www.alibabacloud.com/help/zh/application-real-time-monitoring-service/latest/statistical-metrics) 
 
 - [**zh-Hans**] [Step by step guide to building a front-end monitoring system: How to record user behavior?](https://juejin.cn/post/6844903905394950158)
