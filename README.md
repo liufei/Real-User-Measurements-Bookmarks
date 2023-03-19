@@ -10,6 +10,74 @@ Experience and Insights on Real User Measurements.
 
 - [Measuring the Performance of Single Page Applications](https://www.slideshare.net/nicjansma/measuring-the-performance-of-single-page-applications)
 
+- [Open source backend RUM tool. Wait! What?](https://calendar.perfplanet.com/2018/open-source-backend-rum-tool-wait-what/)
+
+- [Measuring and Optimizing Performance of Single-Page Applications (SPA) Using RUM](https://engineering.linkedin.com/blog/2017/02/measuring-and-optimizing-performance-of-single-page-applications)
+
+- [Resource Timing practical tips](https://www.stevesouders.com/blog/2014/08/21/resource-timing-practical-tips/)
+
+- [Averages, medians & percentiles](https://support.speedcurve.com/docs/average-median-percentiles)
+
+- [Monitoring Applications with Elasticsearch and Elastic APM](https://www.elastic.co/blog/monitoring-applications-with-elasticsearch-and-elastic-apm)
+
+- [What Is Real User Monitoring? Definition, Examples, and Benefits](https://dzone.com/articles/what-is-real-user-monitoring-definition-examples-a)
+
+- [User-centric performance metrics](https://web.dev/user-centric-performance-metrics/)
+
+- [Can You Afford It?: Real-world Web Performance Budgets](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/)
+
+- [Beaconing In Practice](https://nicj.net/beaconing-in-practice/)
+
+- [Real User Monitoring using Boomerang, Boomcatch, StatsD, and Graphite — Setup guide](https://medium.com/@sunitj/real-user-measurement-using-boomerang-boomcatch-statsd-and-graphite-setup-guide-a2f60b5cb082)
+
+- [Profiling React.js Performance](https://addyosmani.com/blog/profiling-react-js/)
+
+- [Web Vitals](https://web.dev/vitals/)
+
+- [Defining the Core Web Vitals metrics thresholds](https://web.dev/defining-core-web-vitals-thresholds/)
+
+- [Comprehensive Guide to Elasticsearch Metrics Aggregations: Part I](https://qbox.io/blog/comprehensive-guide-to-elasticsearch-metrics-aggregations-part-i)
+
+- [Monitor frontend performance with user-centric performance metrics in New Relic](https://newrelic.com/blog/nerdlog/monitor-frontend-performance-with-user-centric-performance-metrics)
+
+- [60 Best Google Analytics alternatives: The Complete List](https://plausible.io/blog/google-analytics-alternatives)
+
+- [Why you should look for an open source alternative to Google Analytics](https://snowplow.io/blog/google-analytics-open-source-alternatives/)
+
+- [Can I use the browser Navigation Timing API for Ajax events in single page apps? If not, what's a good tool?](https://stackoverflow.com/questions/14657849/can-i-use-the-browser-navigation-timing-api-for-ajax-events-in-single-page-apps)
+
+- [Understanding bounce rate in Google Analytics](https://yoast.com/understanding-bounce-rate-google-analytics/)
+
+- [Why Percentiles Don’t Work the Way You Think](https://orangematter.solarwinds.com/2016/11/18/why-percentiles-dont-work-the-way-you-think/)
+
+- [Why averages suck and percentiles are great](https://www.dynatrace.com/news/blog/why-averages-suck-and-percentiles-are-great/)
+
+- [Impact of slow page load time on website performance](https://medium.com/@vikigreen/impact-of-slow-page-load-time-on-website-performance-40d5c9ce568a)
+
+- [Core Web Vitals: The Next Official Google Ranking Factor - Whiteboard Friday](https://moz.com/blog/core-web-vitals)
+
+- [The Complete Guide to the ELK Stack](https://logz.io/learn/complete-guide-elk-stack/)
+
+- [The Top 5 Elasticsearch Mistakes & How to Avoid Them](https://logz.io/blog/the-top-5-elasticsearch-mistakes-how-to-avoid-them/)
+
+- [Self-updating scripts](https://www.stevesouders.com/blog/2012/05/22/self-updating-scripts/)
+
+- [Building Netflix’s Distributed Tracing Infrastructure](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
+
+- [PRPL Pattern](https://www.patterns.dev/posts/prpl)
+
+- [A mostly complete guide to error handling in JavaScript](https://www.valentinog.com/blog/error/)
+
+- [How browsers work](https://web.dev/howbrowserswork/)
+
+- [Introducing the Page Visibility API](https://levelup.gitconnected.com/introducing-the-page-visibility-api-2fe50ee3dcfa)
+
+- [Metrics, Logs, and Traces in JavaScript Tools](https://www.swyx.io/js-tools-metrics-logs-traces)
+
+- [The Cost of Javascript Frameworks](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/)
+
+- [Inlining critical CSS for better web performance](https://gomakethings.com/inlining-critical-css-for-better-web-performance/)
+
 - [**zh-Hans**] [7 Days to Build a Front-end Performance Monitoring System](http://fex.baidu.com/blog/2014/05/build-performance-monitor-in-7-days/)
 
 - [**zh-Hans**] [Alibaba Cloud ARMS launches heavy-duty monitoring for mini-programs, helping to ensure stable operation](https://zhuanlan.zhihu.com/p/57148166)
@@ -163,6 +231,8 @@ Experience and Insights on Real User Measurements.
 - [PostHog](https://github.com/PostHog/posthog)
 
 - [rrweb](https://github.com/rrweb-io/rrweb)
+
+- [Raygun](https://raygun.com/platform/real-user-monitoring)
 
 - [Shynet](https://github.com/milesmcc/shynet)
 
