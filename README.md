@@ -122,7 +122,11 @@ Experience and Insights on Real User Measurements.
 
 - [boomerang](https://github.com/akamai/boomerang)
 
+- [Boomerang-OpenTelemetry Plugin](https://github.com/NovatecConsulting/boomerang-opentelemetry-plugin)
+
 - [chiffre](https://github.com/chiffre-io/chiffre)
+
+- [Counter](https://github.com/ihucos/counter.dev)
 
 - [Countly Analytics](https://github.com/Countly/countly-server)
 
@@ -131,6 +135,8 @@ Experience and Insights on Real User Measurements.
 - [Falco](https://github.com/theodo/falco)
 
 - [femonitor](https://github.com/chalecao/femonitor)
+
+- [femonitor-web](https://github.com/alex1504/femonitor-web)
 
 - [Freshlytics](https://github.com/sheshbabu/freshlytics)
 
@@ -143,6 +149,8 @@ Experience and Insights on Real User Measurements.
 - [mPulse.js](https://github.com/akamai/mpulse.js)
 
 - [Ohbug](https://github.com/ohbug-org/ohbug)
+
+- [OpenReplay](https://github.com/openreplay/openreplay)
 
 - [OpenTracing API for JavaScript](https://github.com/opentracing/opentracing-javascript)
 
@@ -160,7 +168,11 @@ Experience and Insights on Real User Measurements.
 
 - [Shynet](https://github.com/milesmcc/shynet)
 
+- [sitespeed.io](https://github.com/sitespeedio/sitespeed.io)
+
 - [Snowplow](https://github.com/snowplow/snowplow)
+
+- [Umami](https://github.com/umami-software/umami)
 
 - [Web Performance Snippets](https://github.com/nucliweb/webperf-snippets)
 
