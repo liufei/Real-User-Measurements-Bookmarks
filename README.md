@@ -52,8 +52,6 @@ Experience and Insights on Real User Measurements.
 
 - [**zh-Hans**] [FDCon2019 - The Advanced Journey of Alibaba Cloud ARMS Mini Program Monitoring](https://zhuanlan.zhihu.com/p/69468668)
 
-- [**zh-Hans**] [Front-end monitoring and front-end tracking](https://juejin.cn/post/6844903844174888973)
-
 - [**zh-Hans**] [Front-end monitoring and front-end tracking](https://zhuanlan.zhihu.com/p/65834362) 
 
 - [**zh-Hans**] [Front-end Monitoring Trilogy: Exception Monitoring](https://zhuanlan.zhihu.com/p/101838837) 
@@ -91,8 +89,6 @@ Experience and Insights on Real User Measurements.
 - [**zh-Hans**] [Statistical Indicator Description](https://www.alibabacloud.com/help/zh/application-real-time-monitoring-service/latest/statistical-metrics) 
 
 - [**zh-Hans**] [Step by step guide to building a front-end monitoring system: How to record user behavior?](https://juejin.cn/post/6844903905394950158)
-
-- [**zh-Hans**] [Summary of 2017 Front-end Monitoring System Exploration](https://juejin.cn/post/6844903541862039566) 
 
 - [**zh-Hans**] [Summary of 2017 Front-end Monitoring System Exploration](https://zhuanlan.zhihu.com/p/32761159)
 
