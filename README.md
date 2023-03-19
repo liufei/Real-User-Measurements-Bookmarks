@@ -138,6 +138,8 @@ Experience and Insights on Real User Measurements.
 
 - [GoatCounter](https://github.com/arp242/goatcounter)
 
+- [Hypercable Analytics](https://github.com/HyperCable/hypercable)
+
 - [Kindmetrics](https://github.com/kindmetrics/kindmetrics)
 
 - [Matomo](https://github.com/matomo-org/matomo)
